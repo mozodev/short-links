@@ -1,0 +1,9 @@
+name = "short-links"
+type = "javascript"
+workers_dev = true
+compatibility_date = "2022-03-30"
+account_id = "1cdaac8bb81f1628701554cdd5b95407"
+
+[env.production]
+zone_id = "0c6a560f16ad9d9ed19f066d355e5d93"
+route = "l.mozo.kr/*"
