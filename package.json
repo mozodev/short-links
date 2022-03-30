@@ -5,10 +5,11 @@
   "version": "0.1.0",
   "main": "./dist/index.mjs",
   "scripts": {
+    "dev": "wrangler dev",
     "clean": "rm -rf dist redirects.json",
     "fetch": "curl 'https://hugo-tailpine-dev.netlify.app/.netlify/functions/gsheet/short-links' > ./redirects.json",
     "build": "yarn clean && yarn fetch && esbuild --bundle --minify --sourcemap --outfile='./dist/index.mjs' --format=esm ./index.js",
-    "dev": "wrangler dev"
+    "publish": "wrangler publish --env production"
   },
   "author": "yeongtaek, Hong <mozodev@users.noreply.github.com>",
   "license": "MIT",
