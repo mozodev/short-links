@@ -1,17 +1,1 @@
-{
-    "up/php": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/lang/php.sh",
-    "up/node": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/lang/nodejs.sh",
-    "up/ruby": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/lang/rbenv.sh",
-    "up/java": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/lang/java.sh",
-    "up/go": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/lang/goenv.sh",
-    "up/mariadb": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/db/mariadb.sh",
-    "up/mysql": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/db/mysql.sh",
-    "up/postgres": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/db/postgres.sh",
-    "up/drupal": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/app/drupal.sh",
-    "up/gh-fetch": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/app/gh-fetch.sh",
-    "up/hugo": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/app/hugo.sh",
-    "up/rails": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/app/rails.sh",
-    "up/rclone": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/app/rclone.sh",
-    "up/bootstrap": "https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/bootstrap.sh",
-    "up": "https://github.com/mozodev/ubuntu-provision"
-}
+{"up":"https://github.com/mozodev/ubuntu-provision","up/bootstrap":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/bootstrap.sh","up/php":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/lang/php.sh","up/node":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/lang/nodejs.sh","up/ruby":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/lang/rbenv.sh","up/java":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/lang/java.sh","up/go":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/lang/goenv.sh","up/mariadb":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/db/mariadb.sh","up/mysql":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/db/mysql.sh","up/postgres":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/db/postgres.sh","up/drupal":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/app/drupal.sh","up/gh-fetch":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/app/gh-fetch.sh","up/hugo":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/app/hugo.sh","up/rails":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/app/rails.sh","up/rclone":"https://raw.githubusercontent.com/mozodev/ubuntu-provision/main/app/rclone.sh"}
